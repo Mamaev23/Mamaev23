@@ -13,7 +13,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-mongo_DB-white?style=for-the-badge&logo=mongoDB&logoColor=43853d" />  
   <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=43853d" />  
-  <img alt="Material UI" src="https://img.shields.io/badge/-MaterialUI-blue?style=for-the-badge&logo=materialUI&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-430098?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />

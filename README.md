@@ -28,7 +28,6 @@
     <img alt="dotenv" src="https://img.shields.io/badge/-dotenv-red?style=for-the-badge" />
     <img alt="http-status" src="https://img.shields.io/badge/-http--status-purple?style=for-the-badge" />
     <img alt="cors" src="https://img.shields.io/badge/-cors-pink?style=for-the-badge" />
-    <img alt="Material-UI" src="https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge" />
     <img alt="react-router-dom" src="https://img.shields.io/badge/-react--router--dom-red?style=for-the-badge" />
     <img alt="concurrently" src="https://img.shields.io/badge/-concurrently-black?style=for-the-badge" />
     <img alt="styled-components" src="https://img.shields.io/badge/-styled--components-green?style=for-the-badge" />

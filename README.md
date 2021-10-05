@@ -20,8 +20,8 @@
     <img alt="bcrypt" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express" />
     <img alt="Redux-Logger" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
     <img alt="bcrypt" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux" />
-    <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-✔️-green?style=for-the-badge&logo" />
-    <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-✔️-green?style=for-the-badge&logo=mongoose" />
+    <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo" />
+    <img alt="bcrypt" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose" />
     <img alt="bcrypt" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint" />
     <img alt="Heroku" src="https://img.shields.io/badge/-jsonwebtoken-764ABC?style=for-the-badge&logoColor=white" />
     <img alt="handlebars" src="https://img.shields.io/badge/-handlebars-red?style=for-the-badge" />
